@@ -1,3 +1,12 @@
+div {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: red;
+}
+
 body {
   background-color: #ff000080;
 }
@@ -6,4 +15,9 @@ h1 {
   color: navy; 
   margin-left: 60px;
   font-weight: 1000;
+}
+
+img {
+  height: auto;
+  width: 650px;
 }
