@@ -1,10 +1,25 @@
 body {
-  background-color: gray;
-  color: purple;
+  background-color: #808080;
+  color: #fffefe;
+  font-size: 20px;
 }
 
-h1 {
+h1.top {
   font-family: "Trebuchet MS";
+  font-size: 50px;
   text-align: center;
 }
 
+.css2 {
+  text-align: center;
+  display: block;
+}
+
+.css3 {
+   text-align: right;
+   display: block;
+}
+
+.test {
+   text-align: right;
+}
